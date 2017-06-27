@@ -1,0 +1,2 @@
+编译命令
+icc fftw_1d_example.c -lfftw3
